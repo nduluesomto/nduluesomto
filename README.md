@@ -22,7 +22,7 @@ Greetings, and welcome to my Github. My primary framework of choice is Flutter; 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=giftedcodes&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftedcodes&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nduluesomto&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduluesomto&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giftedcodes)
