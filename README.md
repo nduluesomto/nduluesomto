@@ -2,9 +2,7 @@
 
 Greetings, and welcome to my Github. My primary framework of choice is Flutter; Feel free to connect with me below.
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Trey_Hope-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trey-hope-69a3a774/)](https://www.linkedin.com/in/trey-hope-69a3a774/) -->
 [![Instagram Badge](https://img.shields.io/badge/-nduluesomto-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/trey.codes/)](https://instagram.com/nduluesomto)
-<!-- [![Youtube Badge](https://img.shields.io/badge/-trey.codes-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA)](https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA) -->
 [![Twitter Badge](https://img.shields.io/badge/-@huncle_savage-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/@huncle_savage/)](https://twitter.com/@huncle_savage)
 [![Gmail Badge](https://img.shields.io/badge/-dikenduluesomto.jp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dikenduluesomto.jp@gmail.com)](mailto:dikenduluesomto.jp@gmail.com)
 
@@ -13,11 +11,6 @@ Greetings, and welcome to my Github. My primary framework of choice is Flutter; 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=Stripe)
-<!-- ![Algolia](https://img.shields.io/badge/-Algolia-black?style=flat-square&logo=Algolia)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
@@ -25,4 +18,4 @@ Greetings, and welcome to my Github. My primary framework of choice is Flutter; 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nduluesomto&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduluesomto&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giftedcodes)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nduluesomto)
