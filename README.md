@@ -1,12 +1,12 @@
-## Trey Hope - Flutter Dev
+## Giftedcodes - Flutter Dev
 
-Greetings, and welcome to my Github. My primary framework of choice is Flutter; I have published a total of seven apps to both the Google Play Store and Apple App Store. Teaching what I know about the awesome framework is my goal. Feel free to connect with me below.
+Greetings, and welcome to my Github. My primary framework of choice is Flutter; Feel free to connect with me below.
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Trey_Hope-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trey-hope-69a3a774/)](https://www.linkedin.com/in/trey-hope-69a3a774/) -->
 [![Instagram Badge](https://img.shields.io/badge/-nduluesomto-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/trey.codes/)](https://instagram.com/nduluesomto)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-trey.codes-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA)](https://www.youtube.com/channel/UCZPhxIr0rjxwAC5pRYwz4UA) -->
-[![Twitter Badge](https://img.shields.io/badge/-@trey_codes-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/@trey.codes/)](https://twitter.com/@trey_codes)
-[![Gmail Badge](https://img.shields.io/badge/-trey.a.hope@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trey.a.hope@gmail.com)](mailto:trey.a.hope@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@huncle_savage-blue?style=flat-square&labelColor=blue&logo=Twitter&link=https://twitter.com/@huncle_savage/)](https://twitter.com/@huncle_savage)
+[![Gmail Badge](https://img.shields.io/badge/-dikenduluesomto.jp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dikenduluesomto.jp@gmail.com)](mailto:dikenduluesomto.jp@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,4 +25,4 @@ Greetings, and welcome to my Github. My primary framework of choice is Flutter; 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=giftedcodes&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giftedcodes&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giftedcodes.giftedcodes)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giftedcodes)
