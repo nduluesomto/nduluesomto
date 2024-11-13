@@ -1,4 +1,4 @@
-## Giftedcodes - Flutter Dev
+## Giftedcodes - Flutter Developer
 
 Greetings, and welcome to my Github. My primary framework of choice is Flutter; Feel free to connect with me below.
 
